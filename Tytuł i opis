@@ -1,0 +1,11 @@
+Wstępny tytuł: CardFlow – dane transakcyjne jako mapa drogowa popularyzacji kart w e-commerce i płatnościach P2P
+
+Alternatywy: „Od gotówki i przelewu do karty” albo „Pay Pulse: rozumiemy, dlaczego ludzie nie płacą kartą online”.
+
+Krótki opis projektu
+
+Karty płatnicze dominują w sklepach stacjonarnych, ale w e-commerce i w płatnościach między osobami prywatnymi (zwrot za wspólny obiad, zakup z portalu ogłoszeniowego, zrzutka) wypierają je inne metody. W Polsce są to przede wszystkim BLIK, szybkie przelewy i gotówka. Użytkownicy wybierają je, bo są szybsze, nie wymagają przepisywania numeru karty i wydają się bezpieczniejsze. W efekcie ta sama osoba płaci kartą w sklepie osiedlowym, a online lub znajomemu płaci już inaczej.
+
+Nasz projekt wykorzystuje zanonimizowane i zagregowane dane transakcyjne, aby zrozumieć, kiedy, gdzie i dlaczego karta przestaje być pierwszym wyborem. Analizujemy wzorce zachowań według kategorii sprzedawców, pory dnia, wartości koszyka, grup wiekowych i lokalizacji. Na tej podstawie identyfikujemy „punkty ucieczki”, czyli momenty, w których klienci zmieniają metodę płatności. Wynikiem jest narzędzie analityczne z rekomendacjami dla trzech grup odbiorców. Sprzedawcy internetowi dowiedzą się, gdzie wdrożyć rozwiązania takie jak Click to Pay czy płatności tokenizowane jednym kliknięciem. Banki i Visa zobaczą, które segmenty klientów warto aktywować w płatnościach P2P, np. przez Visa Direct. Miasta i samorządy zyskają wiedzę o tym, gdzie bezgotówkowe płatności między mieszkańcami mogą wspierać lokalną gospodarkę, np. targi, lokalne usługi czy wydarzenia.
+
+Wartość: zamieniamy dane transakcyjne w konkretne decyzje. Pokazujemy nie tylko, jak ludzie płacą, ale też co zrobić, żeby karta była dla nich najwygodniejszym wyborem online i w płatnościach prywatnych.

@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local-only files
+unpack_and_run.py
+context.md
+
+# Data (Visa sample data - do not commit)
+*.zip
+*.parquet
+*.duckdb
+*.duckdb.wal
+data/
+
+# Secrets
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
